@@ -5,8 +5,8 @@
 <h2 style="font-size: 24px;">💻 Skills:</h2>
 <ul>
   <li>Programming Languages: Dart, Java, Kotlin</li>
-  <li>Frameworks: Flutter</li>
-  <li>Tools: Android Studio, VS Code</li>
+  <li>Frameworks: Flutter, kotlin(learning)</li>
+  <li>Tools: Android Studio, VS Code, firebase Studio</li>
   <li>Version Control: Git, GitHub</li>
   <li>Other: Firebase, REST APIs</li>
 </ul>
