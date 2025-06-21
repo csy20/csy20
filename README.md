@@ -14,7 +14,6 @@
 <h2>🌐 Connect with me on social media:</h2>
 
 [![X: the__csy20](https://img.shields.io/badge/-@the__csy20-000000?style=flat-square&logo=X&logoColor=white&link=https://x.com/the__csy20)](https://x.com/the__csy20)
-[![X: chiku_kun_20](https://img.shields.io/badge/-@chiku__kun__20-000000?style=flat-square&logo=X&logoColor=white&link=https://x.com/chiku_kun_20)](https://x.com/chiku_kun_20)
 [![LinkedIn: csy20](https://img.shields.io/badge/-csy20-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/csy20/)](https://www.linkedin.com/in/csy20/)
 [![Instagram: the__csy20](https://img.shields.io/badge/-@the__csy20-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/the__csy20/)](https://www.instagram.com/the__csy20/)
 
