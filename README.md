@@ -86,8 +86,8 @@ Infra — GCP (Cloud Run, Cloud Storage, Firebase), Docker Compose, GitHub Actio
 ---
 
 <div align="center">
-  <img src="./assets/stats.svg" alt="csy20 GitHub stats" width="420" />
-  <img src="./assets/langs.svg" alt="Top languages" width="300" />
+  <img src="https://raw.githubusercontent.com/csy20/csy20/main/assets/stats.svg" alt="csy20 GitHub stats" width="420" />
+  <img src="https://raw.githubusercontent.com/csy20/csy20/main/assets/langs.svg" alt="Top languages" width="300" />
 </div>
 
 ---
