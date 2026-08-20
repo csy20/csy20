@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="csy20 GitHub stats">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #00F707; }
+    .label { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .value { font: 600 14px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#0d1117" stroke="#30363d"/>
+  <text class="title" x="25" y="38">csy20's GitHub Stats</text>
+
+  <circle cx="32" cy="72" r="4" fill="#00F707"/>
+  <text class="label" x="46" y="77">Public Repos</text>
+  <text class="value" x="430" y="77" text-anchor="end">85</text>
+
+  <circle cx="32" cy="104" r="4" fill="#00F707"/>
+  <text class="label" x="46" y="109">Contributions (2026)</text>
+  <text class="value" x="430" y="109" text-anchor="end">335</text>
+
+  <circle cx="32" cy="136" r="4" fill="#00F707"/>
+  <text class="label" x="46" y="141">Pull Requests</text>
+  <text class="value" x="430" y="141" text-anchor="end">11</text>
+
+  <circle cx="32" cy="168" r="4" fill="#00F707"/>
+  <text class="label" x="46" y="173">Followers</text>
+  <text class="value" x="430" y="173" text-anchor="end">19</text>
+</svg>

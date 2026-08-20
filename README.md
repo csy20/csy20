@@ -86,10 +86,8 @@ Infra — GCP (Cloud Run, Cloud Storage, Firebase), Docker Compose, GitHub Actio
 ---
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=csy20&show_icons=true&hide_border=true&title_color=00F707&icon_color=00F707&text_color=c9d1d9&bg_color=00000000" alt="csy20 GitHub stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csy20&layout=compact&hide_border=true&title_color=00F707&text_color=c9d1d9&bg_color=00000000" alt="Top languages"/>
-
+  <img src="./assets/stats.svg" alt="csy20 GitHub stats" width="420" />
+  <img src="./assets/langs.svg" alt="Top languages" width="300" />
 </div>
 
 ---
