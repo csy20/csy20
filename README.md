@@ -4,7 +4,7 @@
 
 # Chitresh Yadav
 
-Final-year CS undergraduate building **real-time speech systems** and shipping **Flutter apps** people can actually install.
+CS graduate building **real-time speech systems** and shipping **Flutter apps** people can actually install.
 
 [![Portfolio](https://img.shields.io/badge/portfolio-csy20.works-00F707?style=flat-square&logo=vercel&logoColor=white)](https://csy20-works.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/linkedin-csy20-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csy20/)
@@ -17,7 +17,7 @@ I like work you can measure and ship. Streaming ASR → MT → TTS over WebRTC w
 
 Currently: LoRA fine-tuning Whisper for Hindi–English code-mixed ASR, then serving it from a Rust ONNX runtime.
 
-B.Tech — Computer Science and Business Systems, SSTC Bhilai · expected April 2026.
+B.Tech — Computer Science and Business Systems, SSTC Bhilai · graduated April 2026.
 
 ---
 
