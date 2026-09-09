@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00F707&center=true&vCenter=true&width=560&lines=hii+I+am+~csy20;real-time+speech+systems;Flutter+apps+that+ship)](https://csy20-works.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00F707&center=true&vCenter=true&width=560&lines=hii+I+am+~csy20;real-time+speech+systems;Flutter+apps+that+ship)](https://csy20.me)
 
 # Chitresh Yadav
 
 CS graduate building **real-time speech systems** and shipping **Flutter apps** people can actually install.
 
-[![Portfolio](https://img.shields.io/badge/portfolio-csy20.works-00F707?style=flat-square&logo=vercel&logoColor=white)](https://csy20-works.vercel.app)
+[![Portfolio](https://img.shields.io/badge/portfolio-csy20.me-00F707?style=flat-square&logo=vercel&logoColor=white)](https://csy20.me)
 [![LinkedIn](https://img.shields.io/badge/linkedin-csy20-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csy20/)
 [![X](https://img.shields.io/badge/x-@the__csy20-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/the__csy20)
 [![Email](https://img.shields.io/badge/email-chitreshy20@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chitreshy20@gmail.com)
@@ -101,6 +101,6 @@ Infra — GCP (Cloud Run, Cloud Storage, Firebase), Docker Compose, GitHub Actio
 [![YouTube](https://img.shields.io/badge/-emt__edits-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@emt__edits20)
 [![Buy me a coffee](https://img.shields.io/badge/-buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://coff.ee/the__csy20)
 
-**[csy20-works.vercel.app](https://csy20-works.vercel.app)** · [resume](https://drive.google.com/uc?export=download&id=1FvyG1rvcAQxYL9OQWI6UtF6zX7-lsmAN)
+**[csy20.me](https://csy20.me)** · [resume](https://drive.google.com/uc?export=download&id=1FvyG1rvcAQxYL9OQWI6UtF6zX7-lsmAN)
 
 </div>
