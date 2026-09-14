@@ -35,7 +35,7 @@ Real-time **speech-to-speech translation**. Live mic audio in, translated speech
 </div>
 
 <p align="center">
-  <img src="./assets/speech-relay.svg" alt="speech-relay pipeline: mic → WebRTC → Silero VAD → faster-whisper ASR → IndicTrans2 MT → TTS → N listeners" />
+  <img src="https://raw.githubusercontent.com/csy20/csy20/main/assets/speech-relay.svg" alt="speech-relay pipeline: mic → WebRTC → Silero VAD → faster-whisper ASR → IndicTrans2 MT → TTS → N listeners" />
 </p>
 
 `faster-whisper` · IndicTrans2 / OPUS-MT · Coqui / edge-tts · aiortc · Silero-VAD · ONNX Runtime · asyncio
