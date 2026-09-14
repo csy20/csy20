@@ -5,10 +5,14 @@
 # Chitresh Yadav
 Backend & Applied ML · streaming speech · things that ship
 
-[![portfolio](https://img.shields.io/badge/csy20.me-00F707?style=flat-square)](https://csy20.me)
-[![resume](https://img.shields.io/badge/resume-csy20__resume.pdf-00F707?style=flat-square)](https://github.com/csy20/csy20/blob/main/csy20_resume.pdf)
-[![linkedin](https://img.shields.io/badge/linkedin-csy20-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csy20/)
-[![email](https://img.shields.io/badge/email-chitreshy20@gmail.com-EA4335?style=flat-square)](mailto:chitreshy20@gmail.com)
+<p>
+  <a href="https://csy20.me"><img src="https://img.shields.io/badge/csy20.me-00F707?style=flat-square&logo=vercel&logoColor=white" alt="portfolio"/></a>
+  <a href="https://github.com/csy20"><img src="https://img.shields.io/badge/GitHub-csy20-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/csy20/"><img src="https://img.shields.io/badge/LinkedIn-csy20-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/the__csy20"><img src="https://img.shields.io/badge/Twitter-%40the____csy20-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:chitreshy20@gmail.com"><img src="https://img.shields.io/badge/Gmail-chitreshy20@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://coff.ee/the__csy20"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/></a>
+</p>
 
 B.Tech CSBS, SSTC Bhilai · May 2026 · open to **SDE-1 / Backend / Applied ML**
 
@@ -35,5 +39,3 @@ Mic in → translated audio out over WebRTC. Measured hops, not a file demo.
 - **[ByteWise](https://play.google.com/store/apps/details?id=com.csy20.bytewise)** — Flutter on Play Store · 788+ lessons · offline SQLite cache
 
 Python · Rust · TypeScript · FastAPI · WebRTC · ONNX · Flutter · Docker · GCP
-
-**[csy20.me](https://csy20.me)** · **[resume](https://github.com/csy20/csy20/blob/main/csy20_resume.pdf)**
