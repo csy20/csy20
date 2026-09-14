@@ -9,7 +9,7 @@
 
   <circle cx="32" cy="72" r="4" fill="#00F707"/>
   <text class="label" x="46" y="77">Public Repos</text>
-  <text class="value" x="430" y="77" text-anchor="end">85</text>
+  <text class="value" x="430" y="77" text-anchor="end">97</text>
 
   <circle cx="32" cy="104" r="4" fill="#00F707"/>
   <text class="label" x="46" y="109">Contributions (2026)</text>
